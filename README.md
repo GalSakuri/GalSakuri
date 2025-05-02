@@ -36,7 +36,7 @@
 | **spotify-release-radar** | Automatically updates your “New Releases” Spotify playlist every morning at 6 AM. Handles token refresh, filtering out remixes, and posts directly to your account. | Python · Spotipy · PythonAnywhere / Heroku Scheduler |
 | **flight‑price‑checker** | Tracks flight prices via the Amadeus API, finds the lowest fare, and sends you email alerts when your target price is reached. | Python · Amadeus API · SMTP · DataManager pattern |
 | **stock‑news‑gui** | A desktop app that fetches live stock prices and news headlines, displaying them in a Tkinter window with refresh controls. | Python · Tkinter · Requests |
-| **amazon‑price‑tracker** | Web‑scraping script that pulls product prices from Amazon and notifies you on price drops. | Python · BeautifulSoup · SMTP |
+| **workout-calories-tracker** | Web‑scraping script that pulls product prices from Amazon and notifies you on price drops. | Python · Requests · Nutritionix Track API · Sheety API · HTTP Basic Auth |
 
 ---
 
