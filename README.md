@@ -15,18 +15,30 @@
 
 ## 🛠️ Tech Stack
 
-
 <p align="center">
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+
+  <!-- GUI Frameworks -->
   <img src="https://img.shields.io/badge/Tkinter-FF6F00?logo=python&logoColor=white" alt="Tkinter" />
+  <img src="https://img.shields.io/badge/PyQt5-41CD52?logo=qt&logoColor=white" alt="PyQt5" />
+
+  <!-- HTTP & Scraping -->
   <img src="https://img.shields.io/badge/Requests-478778?logo=python&logoColor=white" alt="Requests" />
   <img src="https://img.shields.io/badge/BeautifulSoup-9F2B68?logo=python&logoColor=white" alt="BeautifulSoup" />
+
+  <!-- API & Testing -->
+  <img src="https://img.shields.io/badge/REST--API-000000?logo=rest&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite" />
+
+  <!-- Data & Storage -->
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/matplotlib-11557C?logo=matplotlib&logoColor=white" alt="matplotlib" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite" />
+
+  <!-- CI/CD -->
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ---
