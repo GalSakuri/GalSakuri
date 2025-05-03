@@ -36,9 +36,6 @@
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/matplotlib-11557C?logo=matplotlib&logoColor=white" alt="matplotlib" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite" />
-
-  <!-- CI/CD -->
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ---
