@@ -13,7 +13,7 @@
 
 ---
 
-## Tech Stack
+## 🧩  Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -40,7 +40,7 @@
 
 ---
 
-## Projects
+ ## 📌  Projects
 
 | Project | Description | Tech |
 |:---|:---|:---|
