@@ -1,4 +1,4 @@
-# Hi, I’m Gal 👋
+# Hi, I’m Gal 
 
 **2nd‑year Computer Science student @ Holon Institute of Technology**
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧩  Tech Stack
+## Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -40,7 +40,7 @@
 
 ---
 
- ## 📌  Projects
+ ## Projects
 
 | Project | Description | Tech |
 |:---|:---|:---|
