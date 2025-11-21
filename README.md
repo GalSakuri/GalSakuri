@@ -1,6 +1,6 @@
 # Hi, I’m Gal 
 
-**2nd‑year Computer Science student @ Holon Institute of Technology**
+**3rd‑year Computer Science student @ Holon Institute of Technology**
 
 ---
 
