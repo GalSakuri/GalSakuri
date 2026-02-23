@@ -56,7 +56,7 @@
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gal-sakuri/)  
 - 📂 Explore my code: [github.com/GalSakuri](https://github.com/GalSakuri)  
