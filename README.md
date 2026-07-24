@@ -38,9 +38,9 @@ per-agent config. Multi-service, Docker Compose, one-command bring-up.
 
 | Project | Tech |
 |:---|:---|
-| [flight-price-checker](https://github.com/galsakuri/flight-price-checker) | Python · Amadeus API · SMTP |
+| [flight-price-checker](https://github.com/galsakuri/Flight-Price-Scanner) | Python · Amadeus API · SMTP |
 | [stock-market-viewer](https://github.com/galsakuri/stock-market-viewer) | Python · Tkinter · Requests |
-| [multi-user-chat-server](https://github.com/galsakuri/multi-user-chat-server) | Python · sockets · threading |
+| [multi-user-chat-server](https://github.com/galsakuri/Multi-User-Chat-Server-and-Client) | Python · sockets · threading |
 
 ---
 
