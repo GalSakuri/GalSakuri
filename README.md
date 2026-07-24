@@ -40,7 +40,6 @@ per-agent config. Multi-service, Docker Compose, one-command bring-up.
 |:---|:---|
 | [flight-price-checker](https://github.com/galsakuri/flight-price-checker) | Python · Amadeus API · SMTP |
 | [stock-market-viewer](https://github.com/galsakuri/stock-market-viewer) | Python · Tkinter · Requests |
-| [spotify-release-radar](https://github.com/galsakuri/spotify-release-radar) | Python · Spotipy · OAuth |
 | [multi-user-chat-server](https://github.com/galsakuri/multi-user-chat-server) | Python · sockets · threading |
 
 ---
